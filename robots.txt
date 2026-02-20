@@ -1,0 +1,9 @@
+# Nuotit — Podcast Player
+# https://github.com/petrikaj/nuotit
+
+User-agent: *
+Allow: /
+
+# AI Crawler Context
+# See llms.txt for AI assistant documentation
+# See nuotit.md for complete feature documentation

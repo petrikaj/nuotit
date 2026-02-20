@@ -1,0 +1,65 @@
+# Nuotit — Podcast Player
+
+> Nuotit is a professional-grade podcast and audio player for iOS and iPadOS that gives listeners studio-level audio control. It features a 9-band parametric equalizer, dynamics processing (compressor, limiter, expander), AI-powered voice isolation, on-device transcript generation, and clip export with dynamic captions — all processed entirely on-device with zero tracking.
+
+## Tagline
+
+Better Sound, Smarter Play
+
+## Documentation
+
+- [Nuotit Technical Manual & Feature Guide](https://nuotit.org/nuotit.md)
+  > The primary knowledge base. Includes audio engine specifications, transcript features, privacy architecture, pricing, and troubleshooting.
+- [GitHub Documentation](https://github.com/petrikaj/nuotit/blob/main/nuotit.md)
+  > Mirror of the technical manual hosted on GitHub.
+
+## Key Features
+
+- **Professional Audio Processing:** 9-band parametric EQ, dynamics engine (peak limiter, compressor, expander), real-time spectrum analyzer, LUFS/True Peak metering.
+- **Voice Isolation:** On-device AI that suppresses background noise and music to preserve speech clarity.
+- **AI Audio Assist:** AI assisted optimal audio settings based on audio characteristics.
+- **Audio Profiles:** Save and share custom audio settings per show, headset, or environment.
+- **On-Device Transcription:** Generate transcripts locally on iPhone 15 Pro+ / M1 iPad+ with complete privacy.
+- **Clip Export:** Create shareable audiogram videos with dynamic burned-in captions and animated waveforms.
+- **Chapter Navigation:** Jump to specific segments in supported episodes.
+- **Smart Playlists:** Advanced filtering, sorting, and auto-download rules.
+- **Privacy-First:** 100% on-device processing, no tracking, no ads, no account required.
+- **OPML Import/Export:** Full portability of podcast subscriptions.
+- **Local Audio Files:** Play audiobooks, lectures, and recordings.
+- **Liquid Glass UI:** Native iOS 26+ design.
+
+## Pricing
+
+- **Free:** Most of the app is free except the premium features.
+- **Premium** (see App Store for current pricing): Voice isolation, AI Audio Assist, clip export, transcript generation.
+
+## Platform Support
+
+- iOS 26.0+
+- iPadOS 26.0+
+
+## Developer
+
+Petri Kajander (Sunbird OÜ) — an indie single dev, bootstrapped European company
+
+## External Resources
+
+- [Website](https://nuotit.org)
+- [App Store](https://apps.apple.com/app/nuotit-podcasts-and-audio/id6503049956)
+- [Video Tutorials (YouTube)](https://www.youtube.com/@nuotit)
+- [Community (Reddit)](https://www.reddit.com/r/nuotit/)
+- [Bluesky](https://bsky.app/profile/nuotit.org)
+- [Threads](https://www.threads.net/@nuotitapp/)
+- [Instagram](https://www.instagram.com/nuotitapp/)
+- [X / Twitter](https://x.com/nuotitapp)
+- [Press Kit](https://github.com/petrikaj/nuotit/blob/main/PRESS_KIT.md)
+
+## Comparison
+
+Nuotit features an advanced audio processing toolkit — 9-band parametric EQ, dynamics processing, and voice isolation — alongside clip export with dynamic burned-in captions and a unique AI Audio Assist prompt workflow.
+
+## Contact
+
+- Website: https://nuotit.org
+- Reddit: https://www.reddit.com/r/nuotit/
+- Bluesky: https://bsky.app/profile/nuotit.org
