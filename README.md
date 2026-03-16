@@ -119,7 +119,7 @@ How Nuotit compares to popular podcast apps:
 
 **Most of the app is free** — core playback, playlists, downloads, chapters, library management, audio profiles, EQ, dynamics, and more.
 
-**Premium** unlocks pro features: voice isolation, AI Audio Assist, clip export, and transcript generation.
+**Premium** unlocks pro features: voice isolation, AI Audio Assist, and clip export without the watermark.
 
 See the [App Store](https://apps.apple.com/app/nuotit-podcasts-and-audio/id6503049956) for current pricing. No ads. No tracking. No account required.
 
