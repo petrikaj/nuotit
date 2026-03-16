@@ -20,12 +20,15 @@
 ## App Descriptions
 
 ### One-Liner
+
 Nuotit is the podcast player that shapes your sound — professional audio processing, on-device AI, and smart library management for iOS and iPadOS.
 
 ### Short (50 words)
+
 Nuotit is a professional-grade podcast player for iOS and iPadOS that puts studio-level audio control in the listener's hands. Fix poor audio with a 9-band EQ, dynamics engine, and AI voice isolation. Generate transcripts on-device, create shareable clips with dynamic captions, and manage your library with smart playlists — all with total privacy.
 
 ### Medium (100 words)
+
 Nuotit transforms how you listen to podcasts. It features a full professional audio toolkit — a 9-band parametric equalizer, dynamics processing (compressor, limiter, expander), AI-powered voice isolation, and real-time spectrum analysis — giving listeners the power to fix muffled voices, tame inconsistent volumes, and eliminate distracting background noise.
 
 Beyond audio, Nuotit offers on-device transcript generation, clip export with dynamic burned-in captions for social media, chapter navigation, and an intelligent library system with smart playlists and auto-downloads. Everything is processed on-device with zero tracking. Built by a European indie developer, Nuotit is designed for the active listener who knows the details matter.
@@ -57,7 +60,7 @@ Beyond audio, Nuotit offers on-device transcript generation, clip export with dy
 - 📥 Auto-downloads per show or playlist
 - 📖 Chapter navigation
 - 📂 OPML import/export
-- 🎵 Local audio file playback
+- 🎵 Local audio files (audiobooks, voice memos, personal audio files with read-along (with on-device transcription))
 - 🔒 100% on-device processing, zero tracking
 - 🎁 Liquid Glass UI (iOS 26+)
 
@@ -99,6 +102,7 @@ Add more screenshots here as they become available:
 ## Contact
 
 For press inquiries, reviews, or partnership opportunities, reach out via:
+
 - **Website:** [nuotit.org](https://nuotit.org)
 - **Reddit:** [r/nuotit](https://www.reddit.com/r/nuotit/)
 - **Bluesky:** [@nuotit.org](https://bsky.app/profile/nuotit.org)
