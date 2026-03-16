@@ -45,6 +45,7 @@ Whether a host's voice sounds muffled, volume levels are inconsistent, or backgr
 ## ✨ Key Features
 
 ### 🎛️ Professional Audio Processing
+
 - **9-band parametric equalizer** with per-frequency gain, bandwidth, and control
 - **Dynamics engine** — peak limiter, compressor, and expander
 - **Voice isolation** — suppresses background noise and music using on-device AI
@@ -53,16 +54,19 @@ Whether a host's voice sounds muffled, volume levels are inconsistent, or backgr
 - **AI Audio Assist** — AI assisted optimal audio settings based on audio characteristics.
 
 ### 📝 Transcripts & Chapters
+
 - **On-device transcript generation** (iPhone 15 Pro+ / M1 iPad+) — completely private
 - **Feed-provided transcript** support with full-text search
 - **Chapter navigation** — jump to specific segments in supported episodes
 
 ### 🎬 Clip Export
+
 - Turn any audio segment into a **shareable video** (audiogram)
 - Automated **dynamic captions** and animated waveform visualizations
 - Multiple social-ready templates — all processed on-device
 
 ### 📚 Smart Library Management
+
 - **Smart playlists** with advanced filtering and sorting rules
 - **Auto-downloads** per show or playlist
 - **Collections** — All Episodes, Downloaded, Started, Local Files
@@ -70,17 +74,19 @@ Whether a host's voice sounds muffled, volume levels are inconsistent, or backgr
 - **OPML import/export** — your subscriptions are always portable
 
 ### 🔒 Privacy-First Architecture
+
 - **100% on-device processing** — audio, transcripts, and clips never leave your phone
 - **No tracking, no ads, no analytics** — only your local data
 - **No account required** — just install and listen
 - Works **offline** after initial feed fetch or importing local audio files
 
 ### 🎵 Native iOS & iPadOS Experience
+
 - **Liquid Glass** UI on iOS 26+
 - Persistent **mini-player** across all screens
 - Variable **playback speeds** and customizable skip intervals
 - **Interactive show notes** with link previews
-- Support for **local audio files** (audiobooks, lectures, recordings)
+- Support for **local audio files** (audiobooks, lectures, recordings, voice memos, personal files) with on-device transcription for read-along
 
 ---
 
@@ -159,6 +165,7 @@ This repository includes machine-readable documentation for AI systems:
 - [`nuotit.md`](nuotit.md) — Complete technical documentation and feature guide
 
 The canonical documentation is always available at:
+
 - [nuotit.org/llms.txt](https://nuotit.org/llms.txt)
 - [nuotit.org/nuotit.md](https://nuotit.org/nuotit.md)
 
