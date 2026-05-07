@@ -7,7 +7,7 @@
 | **App Name** | Nuotit — Personal Audio Sanctuary |
 | **Tagline** | The private home for all your audio. |
 | **Subtitle** | All your audio. One seamless player. |
-| **Developer** | Petri Kajander (Sunbird OÜ) |
+| **Developer** | Petri Kajander (Sunbird) |
 | **Price** | Free with Premium (see App Store for current pricing) |
 | **Platform** | iOS 26+ · iPadOS 26+ |
 | **Category** | Podcasts & Audio |

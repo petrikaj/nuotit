@@ -84,7 +84,7 @@ Both apps let you share highlights as video clips. Overcast exports a clean vide
 **Choose Nuotit if you:**
 - Want your podcast library to include imported audiobooks, voice memos, or local music — all on-device, no cloud.
 - Prefer advanced smart playlists that automatically organize and filter your queue across all your different audio formats.
-- - Enjoy having control over how your audio sounds, with EQ, dynamics, and per-show profiles.
+- Enjoy having control over how your audio sounds, with EQ, dynamics, and per-show profiles.
 - Want transcripts for imported or private files, not just RSS feeds.
 - Create social clips and want dynamic captions generated on your device.
 

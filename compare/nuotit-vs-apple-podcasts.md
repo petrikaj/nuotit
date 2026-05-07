@@ -8,7 +8,7 @@
 |---|---|---|
 | **Price** | Free with Premium | Free |
 | **Platform** | iOS, iPadOS | iOS, iPadOS, macOS, watchOS |
-| **Developer** | Sunbird OÜ (European, independent) | Apple |
+| **Developer** | Petri Kajander (solo indie) | Apple |
 | **Focus** | Comprehensive personal audio library | Ecosystem convenience & simplicity |
 
 ---

@@ -7,7 +7,7 @@
 <h1 align="center">Nuotit — Personal Audio Sanctuary</h1>
 
 <p align="center">
-  <strong>The private home for all your audio.</strong><br>
+  <strong>The private home for all your audio</strong><br>
   Podcasts, audiobooks, voice memos, and local music — unified in one elegantly crafted library. Entirely on your iOS or iPadOS  device.
 </p>
 

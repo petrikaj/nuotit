@@ -25,7 +25,7 @@ Nuotit's defining differentiators, for reference:
 | **Audio Engine** | 9-band EQ, dynamics processing, voice isolation, audio profiles per show or environment |
 | **Clip Export** | Captioned video clips with dynamic waveforms, generated on-device |
 
-If you need cross-platform web sync, Pocket Casts handles that well. If you want whatever came on your iPhone with zero configuration, Apple Podcasts is a perfectly reasonable choice. These comparisons are here to help you decide which fits your listening life.
+If you need cross-platform web sync, Pocket Casts handles that well. If you prefer an app that comes pre-installed with zero configuration, Apple Podcasts is a perfectly fine choice. These comparisons are here to help you decide which fits your listening life.
 
 ---
 
