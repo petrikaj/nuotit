@@ -1,6 +1,6 @@
-# Nuotit vs. Castro — Detailed Comparison
+# Nuotit vs. Castro
 
-> Castro's inbox-style triage workflow is built for podcast-heavy listeners. Nuotit's audio toolkit is built for sound-quality-focused listeners.
+> Castro has one of the cleverest approaches to managing a heavy podcast diet. Nuotit takes a different angle — a comprehensive library for listeners who want full control over their audio, whatever format it's in.
 
 ## Overview
 
@@ -8,68 +8,95 @@
 |---|---|---|
 | **Price** | Free with Premium | Free with Plus |
 | **Platform** | iOS, iPadOS | iOS, iPadOS |
-| **Developer** | single indie dev, European | Bluck Apps |
-| **Focus** | Audio quality & processing | Episode triage workflow |
+| **Developer** | Petri Kajander (solo indie) | Bluck Apps |
+| **Focus** | Comprehensive audio library & control| Episode triage and queue management |
 
 ---
 
-## Core Difference
+## What Castro Does Well
 
-**Castro** solves the "too many podcasts" problem with its inbox-style triage system. New episodes arrive in an inbox; you swipe to queue or archive them. It's about *managing volume*.
+Castro's inbox-style triage system is genuinely clever. New episodes arrive as inbox items. You swipe to queue the ones you want to hear and archive the rest. For listeners subscribed to dozens of shows, this workflow reduces the cognitive overhead of managing a busy feed list.
 
-**Nuotit** solves the "my podcasts don't sound good" problem with professional audio tools. It's about *enhancing quality*.
+Castro also has solid playback utilities: Trim Silence for shortening pauses, an Enhance Voices toggle, and strong Siri Shortcuts integration. Its video clip sharing lets users export up to 60-second highlights. For local files, Castro Plus includes an iCloud Drive folder that drops external audio files into your triage queue cleanly.
 
 ---
 
-## Audio Processing
+## Where They Differ
+
+### Library Architecture and Local Files
+
+Castro's approach is queue-centric — the iCloud sideload folder gets files into your triage workflow, but Castro is fundamentally organized around a running queue rather than a persistent library.
+
+Nuotit is built as a permanent home for all your audio. Import audiobooks, voice memos, music, and lectures directly into the app's own local storage — no iCloud dependency required. Imported files live alongside your podcast subscriptions in the same smart playlists and queue, as first-class items.
+
+### Audio Control
+
+Castro offers "Enhance Voices" and "Trim Silence" — two simple, effective toggles for frictionless listening.
+
+Nuotit is designed for the intentional listener who wants professional-grade control over how their podcasts sound. It features a full audio toolkit: a 9-band parametric equalizer, dynamics processing (compressor, limiter, expander), and on-device voice isolation. You can save specific audio profiles for different headphones or environments and apply them automatically per show, allowing you to tailor your sound exactly to your liking.
+
+### Transcripts
+
+Castro doesn't currently offer transcript support.
+
+Nuotit generates transcripts on-device for any file in your library (iPhone 15 Pro+ / M1 iPad+). Because Nuotit supports local files, this includes private recordings or downloaded lectures you've imported — transcribed locally, nothing sent anywhere. Search by keyword and tap any word to jump to that moment.
+
+### Clip Export
+
+Both apps let you share video clips. Castro exports up to 60 seconds with episode artwork and a waveform. Nuotit adds dynamic burned-in captions, longer export segments, and three social-ready templates (Square, Story, Landscape) — all generated on your device.
+
+---
+
+## Feature Comparison
 
 | Feature | Nuotit | Castro |
 |---------|:------:|:-----:|
-| 9-Band Parametric EQ | ✅ | ❌ |
-| Dynamics (Compressor/Limiter) | ✅ | ❌ |
-| Voice Isolation | ✅ | ❌ |
-| Enhance Voices | ❌ | ✅ Basic |
-| Trim Silence | ❌ | ✅ |
-| AI Audio Assist | ✅ | ❌ |
-| Audio Profiles | ✅ | ❌ |
-| Spectrum Analyzer | ✅ | ❌ |
+| **Library & Local Files** | | |
+| Local File Integration | ✅ Native, on-device | ⚠️ iCloud Drive sideload folder |
+| Unified Playlists Across Formats | ✅ Yes | ⚠️ Queue-based |
+| **Privacy & Architecture** | | |
+| Privacy Posture | ✅ Zero tracking | ⚠️ Analytics |
+| No Account Required | ✅ Yes | ✅ Yes |
+| No Ads | ✅ Yes | ✅ Yes |
+| Processing Architecture | ✅ 100% On-device | ✅ 100% On-device |
+| **Playback & Organization** | | |
+| Inbox Triage Workflow | ❌ No | ✅ Yes |
+| Smart Playlists | ✅ Advanced filtering | ⚠️ Queue-based |
+| OPML Import / Export | ✅ Full | ✅ Full |
+| Chapter Navigation | ✅ Yes | ✅ Yes |
+| Silence Trimming | ❌ No | ✅ Trim Silence |
+| **Audio Processing** | | |
+| 9-Band Parametric EQ | ✅ Yes | ❌ No |
+| Dynamics (Compressor/Limiter) | ✅ Yes | ❌ No |
+| Voice Enhancement | ✅ Voice Isolation (AI) | ✅ Enhance Voices (Basic) |
+| Custom Audio Profiles | ✅ Per show/environment | ❌ No |
+| Spectrum Analyzer / LUFS Metering | ✅ Yes | ❌ No |
+| **Extras** | | |
+| Transcripts | ✅ Any file (on supported devices) | ❌ No |
+| Clip Export | ✅ Video with dynamic captions | ⚠️ Up to 60s, no captions |
+| Siri Shortcuts | ⚠️ Basic | ✅ Advanced |
 
 ---
 
-## Unique Features
+## Which One Fits?
 
-| Feature | Nuotit | Castro |
-|---------|:------:|:-----:|
-| Inbox Triage Workflow | ❌ | ✅ |
-| Clip Export | ✅ Video with captions | ✅ Up to 60s video |
-| On-Device Transcripts | ✅ | ❌ |
-| Local Audio Files | ✅ | ✅ iCloud Drive sideloading |
-| Smart Playlists | ✅ Advanced | ⚠️ Queue-based |
-| OPML Import/Export | ✅ | ✅ |
-| Chapter Support | ✅ | ✅ |
-| Siri Shortcuts | ⚠️ | ✅ |
+**Choose Castro if you:**
 
-Castro features native video clip sharing, allowing users to export up to 60-second video segments featuring dynamic episode artwork and animated waveforms. Nuotit builds on this concept by offering dynamic burned-in text captions, longer export segments and custom templates. Additionally, for local files, Castro Plus features a "Sideloading" directory within Apple iCloud Drive that automatically synchronizes external MP3 and AAC files directly into the application's triage queue.
+- Subscribe to many shows and want an efficient inbox-style triage to manage the volume.
+- Prefer working through a single running queue rather than a traditional library.
+- Like Trim Silence for automatically shortening episodes.
+- Rely on Siri Shortcuts for automation.
 
----
+**Nuotit is a great fit if you:**
 
-## Who Should Choose Which?
-
-### Choose **Nuotit** if you:
-- Care deeply about how podcasts sound
-- Need professional audio processing
-- Create clips for social media with captions and custom templates
-- Want on-device transcription with complete privacy
-- Value zero-tracking privacy
-
-### Choose **Castro** if you:
-- Subscribe to 50+ podcasts and need to triage efficiently
-- Prefer inbox-style workflow over traditional library
-- Want Siri Shortcuts integration
-- Value Trim Silence for time savings
+- Want your podcast library alongside your imported audiobooks and personal recordings — all on-device.
+- Want to tailor your sound for playback using professional tools like a parametric EQ, dynamics processing, and custom profiles.
+- Want to search your audio as text — for any file, including things you've imported.
+- Create social media clips and want dynamic, burned-in captions generated on your device.
+- Value a traditional, highly customizable smart playlist system over a single running queue.
 
 ---
 
 <p align="center">
-  <a href="https://apps.apple.com/app/nuotit-podcasts-and-audio/id6503049956">Try Nuotit Free</a> · <a href="https://nuotit.org">Learn More</a>
+  <a href="https://apps.apple.com/app/id6503049956">Try Nuotit Free</a> · <a href="https://nuotit.org">Website</a> · <a href="README.md">All Comparisons</a>
 </p>

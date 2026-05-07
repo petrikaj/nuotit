@@ -6,28 +6,29 @@
 
 | Comparison | Summary |
 |-----------|---------|
-| [Nuotit vs. Apple Podcasts](nuotit-vs-apple-podcasts.md) | Professional audio control vs. built-in convenience |
-| [Nuotit vs. Overcast](nuotit-vs-overcast.md) | Full audio toolkit vs. Voice Boost |
-| [Nuotit vs. Pocket Casts](nuotit-vs-pocket-casts.md) | Audio-first design vs. cross-platform sync |
-| [Nuotit vs. Spotify](nuotit-vs-spotify.md) | Dedicated podcast excellence vs. all-in-one music/podcast |
-| [Nuotit vs. Castro](nuotit-vs-castro.md) | Audio engineering vs. inbox triage |
-| [Nuotit vs. Snipd](nuotit-vs-snipd.md) | AI audio processing vs. AI summaries |
+| [Nuotit vs. Apple Podcasts](nuotit-vs-apple-podcasts.md) | Unified local-first library vs. ecosystem convenience |
+| [Nuotit vs. Overcast](nuotit-vs-overcast.md) | Full audio toolkit and local files vs. standalone watchOS app and streaming |
+| [Nuotit vs. Pocket Casts](nuotit-vs-pocket-casts.md) | Local-first, no-cloud library vs. cross-platform sync |
+| [Nuotit vs. Spotify](nuotit-vs-spotify.md) | Private personal audio environment vs. all-in-one platform |
+| [Nuotit vs. Castro](nuotit-vs-castro.md) | Unified library with audio processing vs. inbox triage workflow |
+| [Nuotit vs. Snipd](nuotit-vs-snipd.md) | Private, on-device AI transcription vs. cloud-based AI content summaries |
 
 ---
 
-## Quick Overview
+Nuotit's defining differentiators, for reference:
 
-| Feature Area | Nuotit Advantage |
-|-------------|-----------------|
-| **Audio Quality** | Only app with 9-band EQ, dynamics processing, voice isolation, spectrum analyzer |
-| **AI Features** | AI Audio Assist identifies issues and suggests optimal audio settings |
-| **Privacy** | 100% on-device processing, zero tracking, no account required |
-| **Clip Export** | Create shareable videos with dynamic captions and waveform visualizations |
-| **Audio Profiles** | Save custom settings per show, headphone, or environment |
-| **Metering** | Professional LUFS and True Peak analysis |
+| Area | What Nuotit Does Differently |
+|------|------------------------------|
+| **Unified Library** | RSS podcasts + imported audiobooks, voice memos, and local music in one place — no cloud upload |
+| **On-Device Transcription** | For any file in the library, including private recordings — free where Apple Intelligence is available |
+| **Privacy Architecture** | Local-first; no accounts, no tracking, no ads — by design, not policy |
+| **Audio Engine** | 9-band EQ, dynamics processing, voice isolation, audio profiles per show or environment |
+| **Clip Export** | Captioned video clips with dynamic waveforms, generated on-device |
+
+If you need cross-platform web sync, Pocket Casts handles that well. If you want whatever came on your iPhone with zero configuration, Apple Podcasts is a perfectly reasonable choice. These comparisons are here to help you decide which fits your listening life.
 
 ---
 
 <p align="center">
-  <a href="https://apps.apple.com/app/nuotit-podcasts-and-audio/id6503049956">Download Nuotit</a> · <a href="https://nuotit.org">Website</a>
+  <a href="https://apps.apple.com/app/id6503049956">Download Nuotit</a> · <a href="https://nuotit.org">Website</a>
 </p>

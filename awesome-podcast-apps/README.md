@@ -1,17 +1,17 @@
-# Awesome Podcast Apps [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Podcast & Audio Player Apps [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of podcast player apps across all platforms — for listeners who want more from their audio experience.
+> A curated list of podcast and audio player apps across all platforms — for listeners who want more from their audio experience.
 
-Whether you're an audiophile looking for studio-grade sound, a commuter who needs smart offline playlists, or a content creator who wants to clip and share highlights — there's a podcast app for you.
+Whether you listen to RSS feeds, own a library of audiobooks, record voice memos, or want smart offline playlists and clip sharing — there is an app designed for how you listen.
 
 ---
 
 ## Contents
 
-- [Awesome Podcast Apps ](#awesome-podcast-apps-)
+- [Podcast \& Audio Player Apps ](#podcast--audio-player-apps-)
   - [Contents](#contents)
   - [iOS \& iPadOS](#ios--ipados)
-    - [What Makes Each iOS App Different?](#what-makes-each-ios-app-different)
+    - [What Makes Each App Different?](#what-makes-each-app-different)
   - [Android](#android)
   - [Cross-Platform](#cross-platform)
   - [Web](#web)
@@ -27,21 +27,26 @@ Whether you're an audiophile looking for studio-grade sound, a commuter who need
 
 | App | Key Strength | Price | Link |
 |-----|-------------|-------|------|
-| **[Nuotit](https://nuotit.org)** | Professional audio processing (9-band EQ, dynamics, voice isolation, AI Audio Assist), on-device transcripts, clip export with captions | Freemium | [App Store](https://apps.apple.com/app/nuotit-podcasts-and-audio/id6503049956) |
-| **[Apple Podcasts](https://www.apple.com/apple-podcasts/)** | Built-in, deep Apple ecosystem integration, transcripts, Enhance Dialogue (iOS 26+) | Free | Pre-installed |
-| **[Overcast](https://overcast.fm)** | Smart Speed, Voice Boost, clean UI, video clip export | Free with Premium | [App Store](https://apps.apple.com/app/overcast/id888422857) |
-| **[Castro](https://castro.fm)** | Triage-based inbox for high-volume listeners, video clip export | Free with Plus | [App Store](https://apps.apple.com/app/castro-podcast-player/id1080840241) |
-| **[Pocket Casts](https://pocketcasts.com)** | Cross-platform sync, mature feature set, clip sharing | Free with Plus | [App Store](https://apps.apple.com/app/pocket-casts/id414834813) |
-| **[Snipd](https://www.snipd.com)** | AI-powered highlights and summaries, export to Notion/Readwise | Freemium | [App Store](https://apps.apple.com/app/snipd-podcast-player/id1557206126) |
+| **[Nuotit](https://nuotit.org)** | Unified library (RSS + local files), on-device transcription for any file, professional audio engine, complete privacy | Freemium | [App Store](https://apps.apple.com/app/id6503049956) |
+| **[Apple Podcasts](https://www.apple.com/apple-podcasts/)** | Pre-installed, deep Apple ecosystem integration, transcripts, Enhance Dialogue (iOS 26+) | Free | Pre-installed |
+| **[Overcast](https://overcast.fm)** | Smart Speed, Voice Boost, clean UI, video clip export, strict privacy | Free with Premium | [App Store](https://apps.apple.com/app/overcast/id888422857) |
+| **[Castro](https://castro.fm)** | Triage-based inbox workflow for high-volume listeners, video clip export | Free with Plus | [App Store](https://apps.apple.com/app/castro-podcast-player/id1080840241) |
+| **[Pocket Casts](https://pocketcasts.com)** | Cross-platform sync (iOS, Android, Web), mature feature set, clip sharing | Free with Plus | [App Store](https://apps.apple.com/app/pocket-casts/id414834813) |
+| **[Snipd](https://www.snipd.com)** | AI-powered chapter summaries and highlights, export to Notion/Readwise | Freemium | [App Store](https://apps.apple.com/app/snipd-podcast-player/id1557206126) |
 
-### What Makes Each iOS App Different?
+### What Makes Each App Different?
 
-- **Nuotit** — Focused on *how podcasts sound*. The only app with a full studio-grade audio toolkit (EQ, compressor, limiter, expander, voice isolation, spectrum analyzer) together with a clip export featuring dynamic burned-in captions and custom templates. European, privacy-first, on-device everything.
-- **Apple Podcasts** — Zero-friction if you're in the Apple ecosystem. Has transcripts and, as of iOS 26, an "Enhance Dialogue" ML feature for speech clarity. No manual audio processing tools.
-- **Overcast** — Marco Arment's long-running favourite. Smart Speed (shortens silences) and Voice Boost are signature features. It strictly enforces a privacy-first model with zero third-party analytics, ad services, or behavioral tracking code. Supports video clip export (up to 90 seconds) and local file uploads via Premium.
-- **Castro** — Unique inbox-style workflow: new episodes arrive as "inbox" items that you triage into your queue. Supports video clip export and local file sideloading via iCloud Drive. Now developed by Bluck Apps.
-- **Pocket Casts** — The safe cross-platform pick. Syncs across iOS, Android, and web. Natively supports Clip Sharing across its iOS, Android, and Web platforms. Supports native local file management, allowing users to import custom audio and video files via mobile share sheets or desktop drag-and-drop. Less audio-focused than Nuotit.
-- **Snipd** — AI-first approach. Generates chapter summaries, shareable highlights, video quote cards, and can export to Notion/Readwise. Supports local audio file uploads. Less traditional player, more "podcast research tool."
+- **Nuotit** — A comprehensive, local-first personal audio environment. It natively unifies public RSS podcasts, imported audiobooks, music, and voice memos into a single library—without requiring a cloud upload. Features include on-device transcription for any imported file, smart playlists that mix formats seamlessly, and a professional audio engine (9-band EQ, dynamics, voice isolation). Built with a strict privacy architecture: no accounts, zero tracking, and no ads.
+
+- **Apple Podcasts** — Zero-friction if you're in the Apple ecosystem. Transcripts are available for many shows, and iOS 26 adds "Enhance Dialogue," a one-tap ML feature for speech clarity. Apple Watch and Siri integration are strong. No manual audio tools and no local file support.
+
+- **Overcast** — Marco Arment's long-running independent app. Smart Speed (shortens silences) and Voice Boost (levels out quiet voices) are its signature features. Strictly privacy-first: zero third-party analytics, no ad services, no behavioral tracking. Supports video clip export (up to 90 seconds) and local file uploads via Premium (cloud-based). Also available on macOS and watchOS.
+
+- **Castro** — Unique inbox-style triage workflow: new episodes arrive as inbox items that you swipe to queue or archive. Built for listeners subscribed to many shows who need to manage volume efficiently. Supports video clip export and local file sideloading via iCloud Drive (Castro Plus). Developed by Bluck Apps.
+
+- **Pocket Casts** — The leading cross-platform choice. Syncs seamlessly across iOS, Android, and the web. Clip sharing works across all platforms. Local file import is supported, though it requires uploading files to Pocket Casts' cloud servers. A reliable, mature app for listeners who move between devices and operating systems.
+
+- **Snipd** — AI-first approach to podcast content. Generates chapter summaries, shareable highlights, and video quote cards, and exports to Notion, Readwise, and Obsidian. Less a traditional player, more a podcast research and knowledge-capture tool. Server-side AI processing for its features.
 
 ---
 
@@ -49,10 +54,9 @@ Whether you're an audiophile looking for studio-grade sound, a commuter who need
 
 | App | Key Strength | Price | Link |
 |-----|-------------|-------|------|
-| **[Podcast Addict](https://podcastaddict.com)** | Feature-rich, highly customizable, massive user base | Freemium | [Google Play](https://play.google.com/store/apps/details?id=com.bambuna.podcastaddict) |
+| **[Podcast Addict](https://podcastaddict.com)** | Feature-rich, highly customizable, large user base | Freemium | [Google Play](https://play.google.com/store/apps/details?id=com.bambuna.podcastaddict) |
 | **[AntennaPod](https://antennapod.org)** | Open source, no tracking, community-driven | Free | [F-Droid](https://f-droid.org/en/packages/de.danoeh.antennapod/) / [Google Play](https://play.google.com/store/apps/details?id=de.danoeh.antennapod) |
 | **[Pocket Casts](https://pocketcasts.com)** | Cross-platform sync, polished UI | Free with Plus | [Google Play](https://play.google.com/store/apps/details?id=au.com.shiftyjelly.pocketcasts) |
-| **[Google Podcasts](https://podcasts.google.com)** | *(Discontinued — migrated to YouTube Music)* | — | — |
 
 ---
 
@@ -60,7 +64,7 @@ Whether you're an audiophile looking for studio-grade sound, a commuter who need
 
 | App | Platforms | Key Strength | Price |
 |-----|----------|-------------|-------|
-| **[Spotify](https://www.spotify.com)** | iOS, Android, Desktop, Web | Music + podcasts in one app, exclusive shows | Freemium |
+| **[Spotify](https://www.spotify.com)** | iOS, Android, Desktop, Web | Music + podcasts in one app, exclusive content | Freemium |
 | **[Pocket Casts](https://pocketcasts.com)** | iOS, Android, Web | Reliable cross-device sync | Free with Plus |
 | **[YouTube Music](https://music.youtube.com)** | iOS, Android, Web | Video podcasts + Google integration | Freemium |
 
@@ -71,7 +75,7 @@ Whether you're an audiophile looking for studio-grade sound, a commuter who need
 | App | Key Strength | Price |
 |-----|-------------|-------|
 | **[Pocket Casts Web](https://play.pocketcasts.com)** | Full-featured web client synced with mobile | Requires Plus |
-| **[Podchaser](https://www.podchaser.com)** | Podcast database + discovery + lists | Free |
+| **[Podchaser](https://www.podchaser.com)** | Podcast database, discovery, and lists | Free |
 | **[Listen Notes](https://www.listennotes.com)** | Podcast search engine + API | Free with Pro |
 
 ---
@@ -98,43 +102,42 @@ Whether you're an audiophile looking for studio-grade sound, a commuter who need
 
 ## Feature Comparison
 
-A side-by-side look at key features across the most popular podcast apps:
-
 | Feature | Nuotit | Apple Podcasts | Overcast | Pocket Casts | Spotify | AntennaPod |
 |---------|:------:|:--------------:|:--------:|:------------:|:-------:|:----------:|
-| **Parametric EQ** | ✅ 9-band | ❌ | ❌ | ❌ | ⚠️ Basic Preset EQ | ❌ |
+| **Local File Integration** | ✅ Native, on-device | ❌ | ⚠️ Cloud upload | ⚠️ Cloud upload | ⚠️ Unreliable | ✅ |
+| **On-Device Transcription (any file)** | ✅ Free (where available) | ⚠️ RSS only, server-side | ✅ Free (where available) | ❌ | ⚠️ Server-side | ❌ |
+| **Privacy** | ✅ Zero tracking | ⚠️ Apple Analytics | ✅ Zero tracking | ⚠️ Analytics | ❌ Extensive tracking | ✅ |
+| **No Account Required** | ✅ | ⚠️ | ✅ | ⚠️ For sync | ❌ | ✅ |
+| **Parametric EQ** | ✅ 9-band | ❌ | ❌ | ❌ | ⚠️ Preset EQ only | ❌ |
 | **Dynamics (Compressor/Limiter)** | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| **Voice Isolation** | ✅ | ✅ Enhance Dialogue | ⚠️ Voice Boost | ❌ | ❌ | ❌ |
+| **Voice Isolation / Enhancement** | ✅ AI-powered | ✅ Enhance Dialogue (iOS 26+) | ⚠️ Voice Boost | ❌ | ❌ | ❌ |
 | **AI Audio Assist** | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| **Spectrum Analyzer** | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| **LUFS Metering** | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| **Transcripts** | ✅ On-device | ✅ Server-side | ❌ | ⚠️ Feed-provided | ✅ Server-side | ❌ |
-| **Clip Export** | ✅ Video + captions | ❌ | ✅ Up to 90s video | ✅ Basic video | ⚠️ Share link | ❌ |
-| **Smart Playlists** | ✅ | ⚠️ | ✅ | ✅ | ❌ | ✅ |
+| **Spectrum Analyzer / LUFS** | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| **Clip Export** | ✅ Video + captions | ❌ | ✅ Up to 90s video | ✅ Video clips | ⚠️ Share links | ❌ |
+| **Smart Playlists** | ✅ Advanced | ⚠️ Basic | ✅ | ✅ | ❌ | ✅ |
 | **OPML** | ✅ Full | ❌ | ✅ | ✅ | ❌ | ✅ |
-| **Local Audio Files** | ✅ | ❌ | ✅ Premium | ✅ | ✅ | ✅ |
-| **Privacy** | ✅ Zero tracking | ⚠️ | ✅ | ⚠️ | ❌ | ✅ |
 | **Open Source** | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ |
-| **Cross-Platform** | Apple only | Apple only | iOS, iPadOS, macOS, watchOS | ✅ | ✅ | Android |
+| **Cross-Platform** | Apple only | Apple only | Apple only | ✅ | ✅ | Android |
 
 ---
 
 ## Why This List Exists
 
-Choosing a podcast app is personal. Some listeners want simplicity, others want audio control, and some need cross-platform sync. This list aims to help you find the right tool for how *you* listen.
+Choosing an audio app is personal. Some listeners want one home for everything they own; some want simplicity; some need cross-platform sync; some care deeply about where their data goes. This list helps you find the right fit for how you actually listen.
 
-**Key differentiators to consider:**
-- 🎛️ **Audio quality control** — Only Nuotit offers professional manual audio processing. Apple Podcasts offers Enhance Dialogue (iOS 26+) as a simpler one-tap option.
-- 🔒 **Privacy** — Nuotit and AntennaPod lead with zero-tracking architectures
-- 🔄 **Cross-platform** — Pocket Casts and Spotify have the best sync stories
-- 🤖 **AI features** — Nuotit (audio) and Snipd (content summaries) lead in different AI applications
-- 📂 **Open source** — AntennaPod, gPodder, and Podverse for transparency
+A few dimensions worth considering:
+
+- **Unified library** — Nuotit is the only iOS app that treats RSS podcasts, imported audiobooks, and private voice memos as equal first-class citizens in the same library, without any cloud upload.
+- **Privacy architecture** — Nuotit and AntennaPod lead with genuinely local-first or open-source architectures. Overcast has no third-party tracking. Spotify is advertising-funded and tracks extensively.
+- **Cross-platform** — Pocket Casts and Spotify have the strongest cross-device sync stories.
+- **AI features** — Nuotit (audio processing and on-device transcription) and Snipd (content summaries and knowledge export) lead in different AI applications.
+- **Open source** — AntennaPod, gPodder, and Podverse for full transparency.
 
 ---
 
 ## Contributing
 
-Contributions welcome! If you know of a great podcast app that should be on this list, please [open an issue](https://github.com/petrikaj/nuotit/issues).
+Contributions welcome. If you know of a great podcast or audio app that should be on this list, please [open an issue](https://github.com/petrikaj/nuotit/issues).
 
 **Guidelines:**
 - App must be actively maintained
@@ -144,5 +147,5 @@ Contributions welcome! If you know of a great podcast app that should be on this
 ---
 
 <p align="center">
-  <sub>Curated with ❤️ by the <a href="https://nuotit.org">Nuotit</a> team</sub>
+  <sub>Curated by the <a href="https://nuotit.org">Nuotit</a> team</sub>
 </p>
