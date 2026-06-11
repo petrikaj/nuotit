@@ -21,6 +21,7 @@ Nuotit's defining differentiators, for reference:
 |------|------------------------------|
 | **Unified Library** | RSS podcasts + imported audiobooks, voice memos, and local music in one place — no cloud upload |
 | **On-Device Transcription** | For any file in the library, including private recordings — free where Apple Intelligence is available |
+| **PiP Captions** | Transcript window floats when the app is backgrounded — follow along while using other apps |
 | **Privacy Architecture** | Local-first; no accounts, no tracking, no ads — by design, not policy |
 | **Audio Engine** | 9-band EQ, dynamics processing, voice isolation, audio profiles per show or environment |
 | **Clip Export** | Captioned video clips with dynamic waveforms, generated on-device |

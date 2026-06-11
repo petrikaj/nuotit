@@ -68,6 +68,7 @@ Both apps let you share highlights as video clips. Overcast exports a clean vide
 | Spectrum Analyzer / LUFS Metering | ✅ Yes | ❌ No |
 | **Extras** | | |
 | Transcripts | ✅ Any file (RSS or imported) | ✅ RSS podcasts |
+| Picture-in-Picture Captions | ✅ Yes | ❌ No |
 | Clip Export | ✅ Video with dynamic captions | ⚠️ Video with waveform (no captions) |
 | macOS / watchOS Apps | ❌ No | ✅ Yes |
 

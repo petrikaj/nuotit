@@ -66,6 +66,7 @@ Nuotit offers a full audio toolkit for listeners who like control: a 9-band para
 | **Extras** | | |
 | On-Device Transcription | ✅ Any file (free on supported devices) | ⚠️ RSS only, server-side |
 | Transcript Keyword Search | ✅ Yes | ✅ Yes |
+| Picture-in-Picture Captions | ✅ Yes | ❌ No |
 | Clip Export with Dynamic Captions | ✅ Yes | ❌ No |
 
 ---

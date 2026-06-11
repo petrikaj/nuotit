@@ -74,6 +74,7 @@ Nuotit has no accounts, no tracking, and no advertising. There's nothing to crea
 | Spectrum Analyzer / LUFS Metering | ✅ Yes | ❌ No |
 | **Extras** | | |
 | Transcripts | ✅ Any file (on supported devices) | ⚠️ Feed-provided only |
+| Picture-in-Picture Captions | ✅ Yes | ❌ No |
 | Clip Export | ✅ Video with dynamic captions | ⚠️ Video clips, no captions |
 
 ---

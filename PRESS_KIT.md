@@ -63,6 +63,7 @@ Your audio, entirely on your terms.
 - 📚 Unified library: RSS subscriptions + imported music, audiobooks, memos, lectures
 - 🔍 On-device transcript generation for any file (on supported devices)
 - 📖 Read-along synchronized transcript view; keyword search with tap-to-seek
+- 📱 Picture-in-Picture captions — follow along while using other apps (Premium)
 - 🎛️ 9-band parametric equalizer with real-time spectrum analyzer
 - 📊 Dynamics engine: peak limiter, compressor, expander
 - 🎙️ AI-powered voice isolation (Premium)

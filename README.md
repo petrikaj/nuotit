@@ -59,6 +59,7 @@ Every file is a first-class citizen. Import an audiobook, a voice memo from a st
 - **On-device transcript generation** for any file — RSS or imported (iPhone 15 Pro+ / M1 iPad+)
 - **Feed-provided transcript** support with full-text search
 - **Read-along** synchronized transcript view; tap to play from the segment
+- **Picture-in-Picture captions** — follow along outside the app in a floating window
 - **Chapter navigation** — Podcast 2.0 + ID3 tag chapters
 
 ### 🎛️ Professional Audio
@@ -101,7 +102,7 @@ Every file is a first-class citizen. Import an audiobook, a voice memo from a st
 
 **Free includes:** Smart playlists, local file import (music, audiobooks, memos, lectures), EQ and dynamics processing, audio profiles, feed-provided transcripts, on-device transcript generation (on supported devices), chapter navigation, OPML import/export, continuous play, spectrum analyzer, LUFS analysis.
 
-**Premium** unlocks: voice isolation, AI Audio Assist, and unwatermarked clip export.
+**Premium** unlocks: voice isolation, AI Audio Assist, PiP captions, and unwatermarked clip export.
 
 No ads. No tracking. No account required. See the [App Store](https://apps.apple.com/app/id6503049956) for current pricing.
 

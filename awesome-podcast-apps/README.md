@@ -115,6 +115,7 @@ Whether you listen to RSS feeds, own a library of audiobooks, record voice memos
 | **Spectrum Analyzer / LUFS** | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | **Clip Export** | ✅ Video + captions | ❌ | ✅ Up to 90s video | ✅ Video clips | ⚠️ Share links | ❌ |
 | **Smart Playlists** | ✅ Advanced | ⚠️ Basic | ✅ | ✅ | ❌ | ✅ |
+| **Picture-in-Picture Captions** | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | **OPML** | ✅ Full | ❌ | ✅ | ✅ | ❌ | ✅ |
 | **Open Source** | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ |
 | **Cross-Platform** | Apple only | Apple only | Apple only | ✅ | ✅ | Android |

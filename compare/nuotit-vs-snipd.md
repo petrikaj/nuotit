@@ -81,6 +81,7 @@ Nuotit exports downloadable video clips with dynamic burned-in captions, animate
 | Spectrum Analyzer / LUFS Metering | ✅ Yes | ❌ No |
 | **Extras** | | |
 | Transcripts | ✅ Any file (on-device) | ✅ Server-side |
+| Picture-in-Picture Captions | ✅ Yes | ❌ No |
 | AI Chapter Summaries / Highlights | ❌ No | ✅ Yes |
 | Export to Notion / Readwise | ❌ No | ✅ Yes |
 | Clip Export | ✅ Video with dynamic captions | ⚠️ Share links / quote cards |

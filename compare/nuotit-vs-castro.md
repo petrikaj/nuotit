@@ -73,6 +73,7 @@ Both apps let you share video clips. Castro exports up to 60 seconds with episod
 | Spectrum Analyzer / LUFS Metering | ✅ Yes | ❌ No |
 | **Extras** | | |
 | Transcripts | ✅ Any file (on supported devices) | ❌ No |
+| Picture-in-Picture Captions | ✅ Yes | ❌ No |
 | Clip Export | ✅ Video with dynamic captions | ⚠️ Up to 60s, no captions |
 | Siri Shortcuts | ⚠️ Basic | ✅ Advanced |
 

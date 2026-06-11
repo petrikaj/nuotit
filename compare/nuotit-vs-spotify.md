@@ -76,6 +76,7 @@ Nuotit generates transcripts on-device for any file (iPhone 15 Pro+ / M1 iPad+) 
 | Basic EQ | ✅ (part of full toolkit) | ✅ Preset only |
 | **Extras** | | |
 | Transcripts | ✅ Any file (on-device) | ⚠️ Growing catalog, server-side |
+| Picture-in-Picture Captions | ✅ Yes | ❌ No |
 | Clip Export | ✅ Video with dynamic captions | ⚠️ Share links only |
 
 ---
