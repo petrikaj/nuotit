@@ -27,7 +27,7 @@ Whether you listen to RSS feeds, own a library of audiobooks, record voice memos
 
 | App | Key Strength | Price | Link |
 |-----|-------------|-------|------|
-| **[Nuotit](https://nuotit.org)** | Unified library (RSS + local files), on-device transcription for any file, professional audio engine, complete privacy | Freemium | [App Store](https://apps.apple.com/app/id6503049956) |
+| **[Nuotit](https://nuotit.org)** | Unified library (RSS + local files), on-device transcription  for any file, professional audio engine, complete privacy | Freemium | [App Store](https://apps.apple.com/app/id6503049956) |
 | **[Apple Podcasts](https://www.apple.com/apple-podcasts/)** | Pre-installed, deep Apple ecosystem integration, transcripts, Enhance Dialogue (iOS 26+) | Free | Pre-installed |
 | **[Overcast](https://overcast.fm)** | Smart Speed, Voice Boost, clean UI, video clip export, strict privacy | Free with Premium | [App Store](https://apps.apple.com/app/overcast/id888422857) |
 | **[Castro](https://castro.fm)** | Triage-based inbox workflow for high-volume listeners, video clip export | Free with Plus | [App Store](https://apps.apple.com/app/castro-podcast-player/id1080840241) |
@@ -36,7 +36,7 @@ Whether you listen to RSS feeds, own a library of audiobooks, record voice memos
 
 ### What Makes Each App Different?
 
-- **Nuotit** — A comprehensive, local-first personal audio environment. It natively unifies public RSS podcasts, imported audiobooks, music, and voice memos into a single library—without requiring a cloud upload. Features include on-device transcription for any imported file, smart playlists that mix formats seamlessly, and a professional audio engine (9-band EQ, dynamics, voice isolation). Built with a strict privacy architecture: no accounts, zero tracking, and no ads.
+- **Nuotit** — A private, local-first podcast player that also natively unifies imported audiobooks, music, and voice memos into the same library—without requiring a cloud upload. Features include on-device transcription for any imported file (with Picture-in-Picture synchronized captions), smart playlists that mix formats seamlessly, and a professional audio engine (12-band EQ, PEQ import, dynamics, voice isolation). Built with a strict privacy architecture: no accounts, zero tracking, and no ads.
 
 - **Apple Podcasts** — Zero-friction if you're in the Apple ecosystem. Transcripts are available for many shows, and iOS 26 adds "Enhance Dialogue," a one-tap ML feature for speech clarity. Apple Watch and Siri integration are strong. No manual audio tools and no local file support.
 
@@ -108,14 +108,14 @@ Whether you listen to RSS feeds, own a library of audiobooks, record voice memos
 | **On-Device Transcription (any file)** | ✅ Free (where available) | ⚠️ RSS only, server-side | ✅ Free (where available) | ❌ | ⚠️ Server-side | ❌ |
 | **Privacy** | ✅ Zero tracking | ⚠️ Apple Analytics | ✅ Zero tracking | ⚠️ Analytics | ❌ Extensive tracking | ✅ |
 | **No Account Required** | ✅ | ⚠️ | ✅ | ⚠️ For sync | ❌ | ✅ |
-| **Parametric EQ** | ✅ 9-band | ❌ | ❌ | ❌ | ⚠️ Preset EQ only | ❌ |
+| **Parametric EQ** | ✅ 12-band + PEQ import | ❌ | ❌ | ❌ | ⚠️ Preset EQ only | ❌ |
 | **Dynamics (Compressor/Limiter)** | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | **Voice Isolation / Enhancement** | ✅ AI-powered | ✅ Enhance Dialogue (iOS 26+) | ⚠️ Voice Boost | ❌ | ❌ | ❌ |
 | **AI Audio Assist** | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | **Spectrum Analyzer / LUFS** | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | **Clip Export** | ✅ Video + captions | ❌ | ✅ Up to 90s video | ✅ Video clips | ⚠️ Share links | ❌ |
 | **Smart Playlists** | ✅ Advanced | ⚠️ Basic | ✅ | ✅ | ❌ | ✅ |
-| **Picture-in-Picture Captions** | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| **PiP Transcripts** | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | **OPML** | ✅ Full | ❌ | ✅ | ✅ | ❌ | ✅ |
 | **Open Source** | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ |
 | **Cross-Platform** | Apple only | Apple only | Apple only | ✅ | ✅ | Android |
@@ -131,7 +131,7 @@ A few dimensions worth considering:
 - **Unified library** — Nuotit is the only iOS app that treats RSS podcasts, imported audiobooks, and private voice memos as equal first-class citizens in the same library, without any cloud upload.
 - **Privacy architecture** — Nuotit and AntennaPod lead with genuinely local-first or open-source architectures. Overcast has no third-party tracking. Spotify is advertising-funded and tracks extensively.
 - **Cross-platform** — Pocket Casts and Spotify have the strongest cross-device sync stories.
-- **AI features** — Nuotit (audio processing and on-device transcription) and Snipd (content summaries and knowledge export) lead in different AI applications.
+- **AI features** — Nuotit (audio processing and on-device transcription with PiP capabilities) and Snipd (content summaries and knowledge export) lead in different AI applications.
 - **Open source** — AntennaPod, gPodder, and Podverse for full transparency.
 
 ---
