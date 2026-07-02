@@ -1,6 +1,6 @@
 # Nuotit vs. Spotify
 
-> Spotify is the world's largest audio platform — an all-in-one destination for streaming music, podcasts, and exclusive content. Nuotit is a private, local-first audio environment for listeners who prefer to curate their own collection.
+> Spotify is the world's largest audio platform — an all-in-one destination for streaming music, podcasts, and exclusive content. Nuotit is a private, local-first podcast player for listeners who prefer to curate their own collection.
 
 ## Overview
 
@@ -39,13 +39,13 @@ Nuotit collects nothing. No account, no tracking, no ads. Everything — playbac
 
 Spotify has a basic preset EQ, which is useful for casual adjustments across both music and podcasts.
 
-Nuotit is designed for the intentional listener who wants to actively shape their audio. It provides a professional-grade audio toolkit: a 9-band parametric EQ, dynamics processing (compressor, limiter, expander), AI-powered voice isolation, a real-time spectrum analyzer, and LUFS analysis. You can save custom audio profiles for different shows or listening environments and have them apply automatically.
+Nuotit is designed for the intentional listener who wants to actively shape their audio. It provides a professional-grade audio toolkit: a 12-band parametric EQ, dynamics processing (compressor, limiter, expander), AI-powered voice isolation, a real-time spectrum analyzer, and LUFS analysis. You can save custom audio profiles for different shows or listening environments and have them apply automatically.
 
 ### Transcription
 
 Spotify provides server-side transcripts for a growing catalog of major podcasts, but it can't transcribe personal or locally imported files.
 
-Nuotit generates transcripts on-device for any file (iPhone 15 Pro+ / M1 iPad+) — public podcast or imported recording alike. A private voice memo, a downloaded lecture — transcribed locally, nothing sent anywhere.
+Nuotit generates transcripts on-device for any file (iPhone 15 Pro+ / M1 iPad+) — public podcast or imported recording alike. A private voice memo, a downloaded lecture — transcribed locally, nothing sent anywhere. Nuotit also supports reading along outside the app via Picture-in-Picture (PiP) synchronized captions.
 
 ---
 
@@ -69,14 +69,14 @@ Nuotit generates transcripts on-device for any file (iPhone 15 Pro+ / M1 iPad+) 
 | RSS Feed Support | ✅ Any public feed | ⚠️ Spotify catalog primarily |
 | Algorithmic Discovery | ❌ No | ✅ Yes |
 | **Audio Processing** | | |
-| 9-Band Parametric EQ | ✅ Yes | ❌ No |
+| 12-Band Parametric EQ | ✅ Yes | ⚠️ Preset EQ only |
+| PEQ / Headphone Profile Import | ✅ Yes | ❌ No |
 | Dynamics (Compressor/Limiter) | ✅ Yes | ❌ No |
 | Voice Enhancement | ✅ Voice Isolation (AI) | ❌ No |
 | Custom Audio Profiles | ✅ Per show/environment | ❌ No |
 | Basic EQ | ✅ (part of full toolkit) | ✅ Preset only |
 | **Extras** | | |
-| Transcripts | ✅ Any file (on-device) | ⚠️ Growing catalog, server-side |
-| Picture-in-Picture Captions | ✅ Yes | ❌ No |
+| Transcripts | ✅ Any file (on-device, PiP support) | ⚠️ Growing catalog, server-side |
 | Clip Export | ✅ Video with dynamic captions | ⚠️ Share links only |
 
 ---
@@ -95,7 +95,7 @@ Nuotit generates transcripts on-device for any file (iPhone 15 Pro+ / M1 iPad+) 
 - Want a personal library of your own files — podcasts, audiobooks, music, and recordings — without anything leaving your device.
 - Subscribe to independent RSS feeds not available on closed platforms.
 - Enjoy professional audio tools to shape how your audio sounds.
-- Want to transcribe private recordings locally.
+- Want to transcribe private recordings locally, and follow along via PiP captions.
 - Value zero tracking, no account requirement, and no advertising at any tier.
 
 ---

@@ -33,13 +33,13 @@ Nuotit is built as a permanent home for all your audio. Import audiobooks, voice
 
 Castro offers "Enhance Voices" and "Trim Silence" — two simple, effective toggles for frictionless listening.
 
-Nuotit is designed for the intentional listener who wants professional-grade control over how their podcasts sound. It features a full audio toolkit: a 9-band parametric equalizer, dynamics processing (compressor, limiter, expander), and on-device voice isolation. You can save specific audio profiles for different headphones or environments and apply them automatically per show, allowing you to tailor your sound exactly to your liking.
+Nuotit is designed for the intentional listener who wants professional-grade control over how their podcasts sound. It features a full audio toolkit: a 12-band parametric equalizer, dynamics processing (compressor, limiter, expander), and on-device voice isolation. You can save specific audio profiles for different headphones or environments and apply them automatically per show, allowing you to tailor your sound exactly to your liking.
 
 ### Transcripts
 
 Castro doesn't currently offer transcript support.
 
-Nuotit generates transcripts on-device for any file in your library (iPhone 15 Pro+ / M1 iPad+). Because Nuotit supports local files, this includes private recordings or downloaded lectures you've imported — transcribed locally, nothing sent anywhere. Search by keyword and tap any word to jump to that moment.
+Nuotit generates transcripts on-device for any file in your library (iPhone 15 Pro+ / M1 iPad+). Because Nuotit supports local files, this includes private recordings or downloaded lectures you've imported — transcribed locally, nothing sent anywhere. Search by keyword, tap any word to jump to that moment, or read along outside the app using Picture-in-Picture (PiP) synchronized captions.
 
 ### Clip Export
 
@@ -66,14 +66,14 @@ Both apps let you share video clips. Castro exports up to 60 seconds with episod
 | Chapter Navigation | ✅ Yes | ✅ Yes |
 | Silence Trimming | ❌ No | ✅ Trim Silence |
 | **Audio Processing** | | |
-| 9-Band Parametric EQ | ✅ Yes | ❌ No |
+| 12-Band Parametric EQ | ✅ Yes | ❌ No |
+| PEQ / Headphone Profile Import | ✅ Yes | ❌ No |
 | Dynamics (Compressor/Limiter) | ✅ Yes | ❌ No |
 | Voice Enhancement | ✅ Voice Isolation (AI) | ✅ Enhance Voices (Basic) |
 | Custom Audio Profiles | ✅ Per show/environment | ❌ No |
 | Spectrum Analyzer / LUFS Metering | ✅ Yes | ❌ No |
 | **Extras** | | |
-| Transcripts | ✅ Any file (on supported devices) | ❌ No |
-| Picture-in-Picture Captions | ✅ Yes | ❌ No |
+| Transcripts | ✅ Any file (on-device, PiP support) | ❌ No |
 | Clip Export | ✅ Video with dynamic captions | ⚠️ Up to 60s, no captions |
 | Siri Shortcuts | ⚠️ Basic | ✅ Advanced |
 
@@ -92,7 +92,7 @@ Both apps let you share video clips. Castro exports up to 60 seconds with episod
 
 - Want your podcast library alongside your imported audiobooks and personal recordings — all on-device.
 - Want to tailor your sound for playback using professional tools like a parametric EQ, dynamics processing, and custom profiles.
-- Want to search your audio as text — for any file, including things you've imported.
+- Want to search your audio as text and follow along with PiP captions — for any file, including things you've imported.
 - Create social media clips and want dynamic, burned-in captions generated on your device.
 - Value a traditional, highly customizable smart playlist system over a single running queue.
 

@@ -15,7 +15,7 @@
 
 ## What Apple Podcasts Does Well
 
-Apple Podcasts is pre-installed on every iPhone, requires no setup, and integrates naturally with the rest of the Apple ecosystem — Siri, HomePod, CarPlay, Apple Watch, and Handoff all work seamlessly out of the box.For listeners whose library consists entirely of public RSS feeds, it covers the essentials beautifully.
+Apple Podcasts is pre-installed on every iPhone, requires no setup, and integrates naturally with the rest of the Apple ecosystem — Siri, HomePod, CarPlay, Apple Watch, and Handoff all work seamlessly out of the box. For listeners whose library consists entirely of public RSS feeds, it covers the essentials beautifully.
 
 Transcripts are available for many popular shows natively. On iOS 26, Apple introduced "Enhance Dialogue" — an effective machine-learning feature that dynamically reduces background noise to improve speech clarity with a single tap. It requires no configuration, which is a genuine strength. Apple Podcasts also supports native video podcast playback, which Nuotit does not.
 
@@ -31,12 +31,12 @@ Nuotit brings all of that together. Import your audiobooks, lectures, and voice 
 ### On-Device vs. Server-Side Transcription
 Apple Podcasts generates transcripts on Apple's servers, and only for public RSS feeds.
 
-Nuotit generates transcripts directly on your device (iPhone 15 Pro+ / M1 iPad+). Because nothing leaves the device, you can transcribe a private voice memo, a downloaded lecture, or an imported audiobook just as easily as a public podcast episode. No account needed, nothing sent anywhere.
+Nuotit generates transcripts directly on your device (iPhone 15 Pro+ / M1 iPad+). Because nothing leaves the device, you can transcribe a private voice memo, a downloaded lecture, or an imported audiobook just as easily as a public podcast episode. You can also follow along outside the app using Picture-in-Picture (PiP) synchronized captions. No account needed, nothing sent anywhere.
 
 ### Precision Playback vs. Automatic Simplicity
 Apple Podcasts has Enhance Dialogue — a one-tap, automatic option that works quietly in the background.
 
-Nuotit offers a full audio toolkit for listeners who like control: a 9-band parametric EQ, dynamics processing (compressor, limiter, expander), voice isolation, and LUFS loudness analysis. You can save custom audio profiles for different headphones or environments, and they apply automatically per show. It is the difference between an automatic camera mode and manual — neither is better, it depends
+Nuotit offers a full audio toolkit for listeners who like control: a 12-band parametric EQ, dynamics processing (compressor, limiter, expander), voice isolation, and LUFS loudness analysis. You can save custom audio profiles for different headphones or environments, and they apply automatically per show. It is the difference between an automatic camera mode and manual — neither is better, it depends.
 
 ---
 
@@ -58,15 +58,16 @@ Nuotit offers a full audio toolkit for listeners who like control: a 9-band para
 | OPML Import / Export | ✅ Full | ❌ Export only |
 | Chapter Navigation | ✅ Yes | ✅ Yes |
 | **Audio Processing** | | |
-| 9-Band Parametric EQ | ✅ Yes | ❌ No |
+| 12-Band Parametric EQ | ✅ Yes | ❌ No |
+| PEQ / Headphone Profile Import | ✅ Yes| ❌ No |
 | Dynamics (Compressor/Limiter) | ✅ Yes | ❌ No |
 | Voice Enhancement | ✅ Voice Isolation (AI) | ✅ Enhance Dialogue (iOS 26+) |
 | Custom Audio Profiles | ✅ Per show/environment | ❌ No |
 | Spectrum Analyzer / LUFS Metering | ✅ Yes | ❌ No |
 | **Extras** | | |
 | On-Device Transcription | ✅ Any file (free on supported devices) | ⚠️ RSS only, server-side |
+| Picture-in-Picture Transcripts | ✅ Yes | ❌ No |
 | Transcript Keyword Search | ✅ Yes | ✅ Yes |
-| Picture-in-Picture Captions | ✅ Yes | ❌ No |
 | Clip Export with Dynamic Captions | ✅ Yes | ❌ No |
 
 ---
@@ -82,6 +83,7 @@ Nuotit offers a full audio toolkit for listeners who like control: a 9-band para
 **Nuotit is a great fit if you:**
 - Want your podcasts, audiobooks, and voice memos in one place without juggling apps.
 - Want to transcribe private recordings or downloaded files without sending anything to a server.
+- Enjoy reading along with PiP captions while browsing other apps.
 - Want professional control over how your audio sounds using EQ, dynamics, and profiles.
 - Care about clean privacy: no tracking, no accounts, no data collected.
 - Want to share audio highlights as captioned video clips.

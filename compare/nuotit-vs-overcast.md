@@ -33,10 +33,10 @@ Nuotit imports files directly onto your device. Audiobooks, voice memos, music, 
 ### Audio Control
 Overcast's approach is one-tap simplicity: Voice Boost and Smart Speed do their thing quietly. You trust them, and they generally deliver.
 
-Nuotit offers a full audio toolkit for listeners who enjoy adjusting things: a 9-band parametric EQ, dynamics processing (compressor, limiter, expander), and on-device voice isolation. Custom audio profiles let you save your preferred settings per show or per headphone, and they apply automatically. If you're happy leaving it alone, the defaults work well too — but the controls are there when you want them.
+Nuotit offers a full audio toolkit for listeners who enjoy adjusting things: a 12-band parametric EQ, dynamics processing (compressor, limiter, expander), and on-device voice isolation. Custom audio profiles let you save your preferred settings per show or per headphone, and they apply automatically. If you're happy leaving it alone, the defaults work well too — but the controls are there when you want them.
 
 ### Transcription
-Both apps offer transcripts for RSS podcast feeds. Nuotit goes further — because it natively handles local files, you can generate a transcript for any imported file too. A private voice memo, a downloaded lecture, a meeting recording. All processed on-device, nothing sent anywhere
+Both apps offer transcripts for RSS podcast feeds. Nuotit goes further — because it natively handles local files, you can generate a transcript for any imported file too. A private voice memo, a downloaded lecture, a meeting recording. All processed on-device, nothing sent anywhere. Nuotit also lets you read along outside the app using Picture-in-Picture (PiP) synchronized captions.
 
 ### Clip Export
 Both apps let you share highlights as video clips. Overcast exports a clean video with episode artwork and an animated waveform. Nuotit adds dynamic burned-in captions, and offers three social-ready formats (Square, Story, Landscape) — all generated on your device.
@@ -61,14 +61,14 @@ Both apps let you share highlights as video clips. Overcast exports a clean vide
 | Chapter Navigation | ✅ Yes | ✅ Yes |
 | Silence Trimming | ❌ No | ✅ Smart Speed |
 | **Audio Processing** | | |
-| 9-Band Parametric EQ | ✅ Yes | ❌ No |
+| 12-Band Parametric EQ | ✅ Yes | ❌ No |
+| PEQ / Headphone Profile Import | ✅ Yes | ❌ No |
 | Dynamics (Compressor/Limiter) | ✅ Yes | ❌ No |
 | Voice Enhancement | ✅ Voice Isolation (AI) | ✅ Voice Boost |
 | Custom Audio Profiles | ✅ Per show/environment | ❌ No |
 | Spectrum Analyzer / LUFS Metering | ✅ Yes | ❌ No |
 | **Extras** | | |
-| Transcripts | ✅ Any file (RSS or imported) | ✅ RSS podcasts |
-| Picture-in-Picture Captions | ✅ Yes | ❌ No |
+| Transcripts | ✅ Any file (RSS or imported, PiP support) | ✅ RSS podcasts |
 | Clip Export | ✅ Video with dynamic captions | ⚠️ Video with waveform (no captions) |
 | macOS / watchOS Apps | ❌ No | ✅ Yes |
 
@@ -86,7 +86,7 @@ Both apps let you share highlights as video clips. Overcast exports a clean vide
 - Want your podcast library to include imported audiobooks, voice memos, or local music — all on-device, no cloud.
 - Prefer advanced smart playlists that automatically organize and filter your queue across all your different audio formats.
 - Enjoy having control over how your audio sounds, with EQ, dynamics, and per-show profiles.
-- Want transcripts for imported or private files, not just RSS feeds.
+- Want transcripts for imported or private files with the ability to read along via PiP.
 - Create social clips and want dynamic captions generated on your device.
 
 ---

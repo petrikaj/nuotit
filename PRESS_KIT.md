@@ -4,9 +4,9 @@
 
 | | |
 |---|---|
-| **App Name** | Nuotit — Personal Audio Sanctuary |
-| **Tagline** | The private home for all your audio. |
-| **Subtitle** | All your audio. One seamless player. |
+| **App Name** | Nuotit — Podcast & Audio Player |
+| **Tagline** | The podcast player for all your audio. |
+| **Subtitle** | Podcasts, books, music unified. |
 | **Developer** | Petri Kajander (Sunbird) |
 | **Price** | Free with Premium (see App Store for current pricing) |
 | **Platform** | iOS 26+ · iPadOS 26+ |
@@ -22,7 +22,7 @@
 
 ### One-Liner
 
-Nuotit is a comprehensive, local-first personal audio environment for iOS and iPadOS — podcasts, audiobooks, voice memos, and music unified in one private library, with on-device transcription and professional audio processing.
+Nuotit is a private, local-first podcast player for iOS and iPadOS that also unifies imported audiobooks, voice memos, and music into one private library — with on-device transcription and professional audio processing.
 
 ### Short (50 words)
 
@@ -30,9 +30,9 @@ Nuotit brings your podcasts, audiobooks, voice memos, and music into one unified
 
 ### Medium (100 words)
 
-Nuotit is a comprehensive personal audio environment for iOS and iPadOS. It treats a public RSS podcast, an imported DRM-free audiobook, and a private voice memo with equal architectural reverence — all in one library, all entirely on your device.
+Nuotit is a private, local-first podcast player for iOS and iPadOS. It treats a public RSS podcast, an imported DRM-free audiobook and a private voice memo with equal architectural reverence — all in one library, all entirely on your device.
 
-Import audio files directly, and they join your podcast subscriptions as first-class citizens in the same smart playlists and queue. Generate highly accurate transcripts on-device for any file — even private recordings, which never leave your device. A professional audio engine with a 9-band EQ, dynamics processing, and voice isolation ensures every file sounds the way you want it.
+Import audio files directly, and they join your podcast subscriptions as first-class citizens in the same smart playlists and queue. Generate highly accurate transcripts on-device for any file — even private recordings, which never leave your device. A professional audio engine with a 12-band EQ, PEQ headphone profile import, dynamics processing, and voice isolation ensures every file sounds the way you want it.
 
 No accounts. No tracking. No cloud dependency. Built by a solo indie developer in Europe, for the intentional listener who wants all their audio in one private home.
 
@@ -52,7 +52,7 @@ Your audio, entirely on your terms.
 
 1. **Unified local-first library** — the only player that treats RSS podcasts, imported audiobooks, voice memos, and music as equal first-class citizens on your device, with no cloud upload required
 2. **On-device transcription for any file** — not just public RSS feeds; transcribe private recordings and downloaded lectures locally on supported devices
-3. **Professional audio engine** — 9-band parametric EQ, compressor, limiter, expander, AI-powered voice isolation, and real-time spectrum analysis
+3. **Professional audio engine** — 12-band parametric EQ with PEQ headphone profile import, compressor, limiter, expander, AI-powered voice isolation, and real-time spectrum analysis
 4. **Complete on-device privacy** — no accounts, no tracking, no ads; there is no server to breach
 5. **Remarkably generous free tier** — the core library, audio engine, transcription, and smart playlists are all free
 
@@ -64,7 +64,8 @@ Your audio, entirely on your terms.
 - 🔍 On-device transcript generation for any file (on supported devices)
 - 📖 Read-along synchronized transcript view; keyword search with tap-to-seek
 - 📱 Picture-in-Picture captions — follow along while using other apps (Premium)
-- 🎛️ 9-band parametric equalizer with real-time spectrum analyzer
+- 🎛️ 12-band parametric equalizer with real-time spectrum analyzer
+- 🎚️ PEQ / headphone profile import for AutoEQ-style tuning (Premium)
 - 📊 Dynamics engine: peak limiter, compressor, expander
 - 🎙️ AI-powered voice isolation (Premium)
 - 🤖 AI Audio Assist — describe what you hear, get a suggested profile (Premium)
@@ -121,7 +122,7 @@ For press inquiries, reviews, or partnership opportunities:
 
 **Privacy at the Local Level** — The difference between "we won't share your data" (a promise) and "we can't see your data" (an architectural fact). Nuotit's local-first design means there is no server at all.
 
-**The Almost-Free Model** — A professional-grade audio environment where the library, EQ, transcription, and smart playlists are all free — and why.
+**The Almost-Free Model** — A professional-grade podcast player where the library, EQ, transcription, and smart playlists are all free — and why.
 
 **The European Indie Developer** — Independent, bootstrapped, built in Europe with a Finnish-influenced ethos of quiet craftsmanship.
 

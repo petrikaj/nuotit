@@ -33,13 +33,13 @@ Nuotit is built for a different preference: keeping personal files strictly on-d
 
 Pocket Casts displays feed-provided transcripts where available but doesn't generate its own.
 
-Nuotit generates transcripts directly on supported devices (iPhone 15 Pro+ / M1 iPad+) for any file in the library — whether it's a public podcast episode or a private recording you've imported. Nothing is sent to a server, which matters especially for personal or sensitive files.
+Nuotit generates transcripts directly on supported devices (iPhone 15 Pro+ / M1 iPad+) for any file in the library — whether it's a public podcast episode or a private recording you've imported. Nothing is sent to a server, which matters especially for personal or sensitive files. You can also follow along outside the app using Picture-in-Picture (PiP) transcripts.
 
 ### Audio Control
 
 Pocket Casts includes Trim Silence and a basic volume boost. These audio tools are mobile-only and unavailable in their web player.
 
-Nuotit has a deeper audio toolkit:a 9-band parametric EQ, compressor, limiter, expander, voice isolation, and LUFS loudness analysis. You can save specific audio profiles for different shows or listening environments and have them apply automatically, allowing you to tailor your sound exactly to your liking.
+Nuotit has a deeper audio toolkit: a 12-band parametric EQ, compressor, limiter, expander, voice isolation, and LUFS loudness analysis. You can save specific audio profiles for different shows or listening environments and have them apply automatically, allowing you to tailor your sound exactly to your liking.
 
 ### Privacy
 
@@ -67,14 +67,14 @@ Nuotit has no accounts, no tracking, and no advertising. There's nothing to crea
 | Chapter Navigation | ✅ Yes | ✅ Yes |
 | Silence Trimming | ❌ No | ✅ Trim Silence |
 | **Audio Processing** | | |
-| 9-Band Parametric EQ | ✅ Yes | ❌ No |
+| 12-Band Parametric EQ | ✅ Yes | ❌ No |
+| PEQ / Headphone Profile Import | ✅ Yes | ❌ No |
 | Dynamics (Compressor/Limiter) | ✅ Yes | ❌ No |
 | Voice Enhancement | ✅ Voice Isolation (AI) | ❌ No |
 | Custom Audio Profiles | ✅ Per show/environment | ❌ No |
 | Spectrum Analyzer / LUFS Metering | ✅ Yes | ❌ No |
 | **Extras** | | |
-| Transcripts | ✅ Any file (on supported devices) | ⚠️ Feed-provided only |
-| Picture-in-Picture Captions | ✅ Yes | ❌ No |
+| Transcripts | ✅ Any file (on-device, PiP support) | ⚠️ Feed-provided only |
 | Clip Export | ✅ Video with dynamic captions | ⚠️ Video clips, no captions |
 
 ---
@@ -91,7 +91,7 @@ Nuotit has no accounts, no tracking, and no advertising. There's nothing to crea
 **Nuotit is a great fit if you:**
 
 - Want a single iOS library for your podcasts, imported audiobooks, and personal recordings — without anything leaving your device.
-- Want to transcribe audio privately on your device.
+- Want to transcribe audio privately on your device, with PiP reading support.
 - Enjoy professional audio tools — EQ, dynamics, profiles — to shape how your audio sounds.
 - Prefer no accounts, no tracking, and no advertising at any tier.
 

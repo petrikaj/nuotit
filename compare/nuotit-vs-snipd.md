@@ -47,7 +47,7 @@ Nuotit generates transcripts on-device for any file on supported hardware (iPhon
 
 Snipd focuses on the content of what's being said, with no manual audio processing tools.
 
-Nuotit focuses on the listening experience itself. It provides a professional-grade audio toolkit: a 9-band parametric EQ, dynamics processing (compressor, limiter, expander), and custom per-show audio profiles, allowing you to tailor your sound for pristine playback across different environments.
+Nuotit focuses on the listening experience itself. It provides a professional-grade audio toolkit: a 12-band parametric EQ, dynamics processing (compressor, limiter, expander), and custom per-show audio profiles, allowing you to tailor your sound for pristine playback across different environments.
 
 ### Clip Export
 
@@ -74,14 +74,14 @@ Nuotit exports downloadable video clips with dynamic burned-in captions, animate
 | OPML Import / Export | ✅ Full | ✅ Full |
 | Cross-Platform Sync | ❌ Apple only | ✅ iOS + Android |
 | **Audio Processing** | | |
-| 9-Band Parametric EQ | ✅ Yes | ❌ No |
+| 12-Band Parametric EQ | ✅ Yes | ❌ No |
+| PEQ / Headphone Profile Import | ✅ Yes | ❌ No |
 | Dynamics (Compressor/Limiter) | ✅ Yes | ❌ No |
 | Voice Enhancement | ✅ Voice Isolation (AI) | ❌ No |
 | Custom Audio Profiles | ✅ Per show/environment | ❌ No |
 | Spectrum Analyzer / LUFS Metering | ✅ Yes | ❌ No |
 | **Extras** | | |
-| Transcripts | ✅ Any file (on-device) | ✅ Server-side |
-| Picture-in-Picture Captions | ✅ Yes | ❌ No |
+| Transcripts | ✅ Any file (on-device, PiP support) | ✅ Server-side |
 | AI Chapter Summaries / Highlights | ❌ No | ✅ Yes |
 | Export to Notion / Readwise | ❌ No | ✅ Yes |
 | Clip Export | ✅ Video with dynamic captions | ⚠️ Share links / quote cards |
@@ -114,5 +114,5 @@ Nuotit exports downloadable video clips with dynamic burned-in captions, animate
 ---
 
 <p align="center">
-  <a href="https://apps.apple.com/app/id6503049956">Try Nuotit Free</a> · <a href="https://nuotit.org">Learn More</a> · <a href="README.md">All Comparisons</a>
+  <a href="https://apps.apple.com/app/id6503049956">Try Nuotit Free</a> · <a href="https://nuotit.org">Website</a> · <a href="README.md">All Comparisons</a>
 </p>

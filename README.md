@@ -4,10 +4,10 @@
   </a>
 </p>
 
-<h1 align="center">Nuotit — Personal Audio Sanctuary</h1>
+<h1 align="center">Nuotit — Podcast Player for iPhone & iPad</h1>
 
 <p align="center">
-  <strong>The private home for all your audio</strong><br>
+  <strong>The podcast player for all your audio</strong><br>
   Podcasts, audiobooks, voice memos, and local music — unified in one elegantly crafted library. Entirely on your iOS or iPadOS  device.
 </p>
 
@@ -34,11 +34,11 @@
 
 ## What is Nuotit?
 
-**Nuotit** is a comprehensive, local-first personal audio environment for iOS and iPadOS. It is more than a podcast player — it is a unified home for all personal audio: public RSS podcast feeds, imported audiobooks, local music, voice memos, lectures, and any other audio file you own.
+**Nuotit** is a private, local-first podcast player for iOS and iPadOS. It handles the fundamentals — RSS subscriptions, chapters, smart playlists, offline downloads — and goes further: imported audiobooks, local music, voice memos, and lectures live in the same library as your podcast subscriptions, rather than being scattered across separate apps.
 
-Every file is a first-class citizen. Import an audiobook, a voice memo from a strategy session, or a downloaded lecture — they appear alongside your RSS subscriptions in the same library, the same smart playlists, and the same seamless queue. No cloud upload required. No switching apps. No lost context.
+Every file is a first-class citizen. Import an audiobook, a voice memo from a strategy session, or a downloaded lecture — they appear alongside your podcast subscriptions in the same library, the same smart playlists, and the same seamless queue. No cloud upload required. No switching apps. No lost context.
 
-> *"The private home for all your audio."*
+> *"The podcast player for all your audio."*
 
 ---
 
@@ -64,7 +64,8 @@ Every file is a first-class citizen. Import an audiobook, a voice memo from a st
 
 ### 🎛️ Professional Audio
 
-- **9-band parametric equalizer** with per-frequency gain and bandwidth control
+- **12-band parametric equalizer** with per-frequency gain and bandwidth control
+- **PEQ / headphone profile import** — apply AutoEQ-style tuning profiles for your specific headset (Premium)
 - **Dynamics engine** — peak limiter, compressor, and expander
 - **Voice isolation** — reduces ambient noise and music to preserve speech (iPhone 12+ / M1 iPad+)
 - **Real-time spectrum analyzer** for visual frequency monitoring
@@ -102,7 +103,7 @@ Every file is a first-class citizen. Import an audiobook, a voice memo from a st
 
 **Free includes:** Smart playlists, local file import (music, audiobooks, memos, lectures), EQ and dynamics processing, audio profiles, feed-provided transcripts, on-device transcript generation (on supported devices), chapter navigation, OPML import/export, continuous play, spectrum analyzer, LUFS analysis.
 
-**Premium** unlocks: voice isolation, AI Audio Assist, PiP captions, and unwatermarked clip export.
+**Premium** unlocks: voice isolation, AI Audio Assist, PEQ/headphone profile import, PiP captions, and unwatermarked clip export.
 
 No ads. No tracking. No account required. See the [App Store](https://apps.apple.com/app/id6503049956) for current pricing.
 
