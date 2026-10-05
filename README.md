@@ -49,14 +49,14 @@ Every file is a first-class citizen. Import an audiobook, a voice memo from a st
 - **RSS subscriptions + imported local files** — all in one place
 - **Local file import** — music, audiobooks, voice memos, lectures; files live on your device
 - **Smart playlists** that filter and sort across all content types automatically
-- **OPML import/export** — your subscriptions are always portable
-- **Auto-downloads** per show or playlist
+- **OPML import/export** — your subscriptions stay portable
+- **Auto-downloads** per show, per playlist, or app-wide
 - **Batch operations** for efficient library management
 - **Collections** — Downloaded, Started, Local Files
 
 ### 🔍 On-Device Intelligence
 
-- **On-device transcript generation** for any file — RSS or imported (iPhone 15 Pro+ / M1 iPad+)
+- **On-device transcript generation** for any file — RSS or imported, in the language you choose (iPhone 15 Pro+ / M1 iPad+)
 - **Feed-provided transcript** support with full-text search
 - **Read-along** synchronized transcript view; tap to play from the segment
 - **Picture-in-Picture captions** — follow along outside the app in a floating window
@@ -71,6 +71,7 @@ Every file is a first-class citizen. Import an audiobook, a voice memo from a st
 - **Real-time spectrum analyzer** for visual frequency monitoring
 - **Volume boost** with live headroom monitoring
 - **LUFS / True Peak loudness analysis**
+- **Auto-Level** — moves each episode toward a target loudness you choose
 - **AI Audio Assist** — describe what you're hearing; get a suggested profile
 - **Audio profiles** per show, headset, or environment — applied automatically
 
@@ -101,9 +102,9 @@ Every file is a first-class citizen. Import an audiobook, a voice memo from a st
 
 **Most of the app is free** — and that free tier is genuinely comprehensive.
 
-**Free includes:** Smart playlists, local file import (music, audiobooks, memos, lectures), EQ and dynamics processing, audio profiles, feed-provided transcripts, on-device transcript generation (on supported devices), chapter navigation, OPML import/export, continuous play, spectrum analyzer, LUFS analysis.
+**Free includes:** Smart playlists, local file import (music, audiobooks, memos, lectures), EQ and dynamics processing, audio profiles, feed-provided transcripts, on-device transcript generation (on supported devices), chapter navigation, OPML import/export, continuous play, spectrum analyzer, LUFS analysis, Auto-Level.
 
-**Premium** unlocks: voice isolation, AI Audio Assist, PEQ/headphone profile import, PiP captions, and unwatermarked clip export.
+**Premium** adds a handful of advanced extras for listeners who want them. See the [App Store](https://apps.apple.com/app/id6503049956) for the current list.
 
 No ads. No tracking. No account required. See the [App Store](https://apps.apple.com/app/id6503049956) for current pricing.
 
@@ -115,6 +116,7 @@ No ads. No tracking. No account required. See the [App Store](https://apps.apple
 |----------|----------------|
 | iPhone | iOS 26.0+ |
 | iPad | iPadOS 26.0+ |
+| Mac (Apple silicon) | macOS 26 (runs the iPad app) |
 
 On-device transcript generation requires iPhone 15 Pro or later / M1 iPad or later.
 
