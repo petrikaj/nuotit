@@ -49,7 +49,7 @@ Every file is a first-class citizen. Import an audiobook, a voice memo from a st
 - **RSS subscriptions + imported local files** — all in one place
 - **Local file import** — music, audiobooks, voice memos, lectures; files live on your device
 - **Smart playlists** that filter and sort across all content types automatically
-- **OPML import/export** — your subscriptions are always portable
+- **OPML import/export** — your subscriptions stay portable
 - **Auto-downloads** per show, per playlist, or app-wide
 - **Batch operations** for efficient library management
 - **Collections** — Downloaded, Started, Local Files
@@ -104,7 +104,7 @@ Every file is a first-class citizen. Import an audiobook, a voice memo from a st
 
 **Free includes:** Smart playlists, local file import (music, audiobooks, memos, lectures), EQ and dynamics processing, audio profiles, feed-provided transcripts, on-device transcript generation (on supported devices), chapter navigation, OPML import/export, continuous play, spectrum analyzer, LUFS analysis, Auto-Level.
 
-**Premium** unlocks: voice isolation, AI Audio Assist, PEQ/headphone profile import, PiP captions, and unwatermarked clip export.
+**Premium** adds a handful of advanced extras for listeners who want them. See the [App Store](https://apps.apple.com/app/id6503049956) for the current list.
 
 No ads. No tracking. No account required. See the [App Store](https://apps.apple.com/app/id6503049956) for current pricing.
 

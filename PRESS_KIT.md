@@ -126,7 +126,7 @@ For press inquiries, reviews, or partnership opportunities:
 
 **The European Indie Developer** — Independent, bootstrapped, built in Europe with a Finnish-influenced ethos of quiet craftsmanship.
 
-**Audio as Knowledge Management** — On-device transcription for private recordings means your audio library is now a searchable knowledge base — without exposing anything to a cloud service.
+**Audio as Knowledge Management** — On-device transcription turns private recordings into searchable, quotable text, one transcript at a time — without exposing anything to a cloud service.
 
 ---
 
