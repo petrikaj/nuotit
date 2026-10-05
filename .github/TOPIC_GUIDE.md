@@ -10,7 +10,7 @@
 ## Recommended Description
 
 ```
-Nuotit — Podcast player for iOS with professional audio processing. 9-band EQ, dynamics engine, voice isolation, on-device transcripts, and clip export. Better Sound, Smarter Play.
+Nuotit — Podcast player for iOS with professional audio processing. 12-band EQ, dynamics engine, voice isolation, on-device transcripts, and clip export. Better Sound, Smarter Play.
 ```
 
 ## Recommended Website

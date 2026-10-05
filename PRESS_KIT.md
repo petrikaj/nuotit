@@ -4,7 +4,7 @@
 
 | | |
 |---|---|
-| **App Name** | Nuotit — Podcast & Audio Player |
+| **App Name** | Nuotit — Private Audio Player |
 | **Tagline** | The podcast player for all your audio. |
 | **Subtitle** | Podcasts, books, music unified. |
 | **Developer** | Petri Kajander (Sunbird) |
@@ -61,7 +61,7 @@ Your audio, entirely on your terms.
 ## Feature Highlights
 
 - 📚 Unified library: RSS subscriptions + imported music, audiobooks, memos, lectures
-- 🔍 On-device transcript generation for any file (on supported devices)
+- 🔍 On-device transcript generation for any file, in the language you choose (on supported devices)
 - 📖 Read-along synchronized transcript view; keyword search with tap-to-seek
 - 📱 Picture-in-Picture captions — follow along while using other apps (Premium)
 - 🎛️ 12-band parametric equalizer with real-time spectrum analyzer
@@ -69,11 +69,11 @@ Your audio, entirely on your terms.
 - 📊 Dynamics engine: peak limiter, compressor, expander
 - 🎙️ AI-powered voice isolation (Premium)
 - 🤖 AI Audio Assist — describe what you hear, get a suggested profile (Premium)
-- 📊 LUFS / True Peak loudness analysis
+- 📊 LUFS / True Peak loudness analysis, with Auto-Level toward a target loudness
 - 🎧 Custom audio profiles per show, headset, or environment
 - 🎬 Clip export with dynamic captions and waveform visualizations (Premium for no watermark)
 - 🗂️ Smart playlists with advanced filtering and sorting across all content types
-- 📥 Auto-downloads per show or playlist
+- 📥 Auto-downloads per show, per playlist, or app-wide
 - 📖 Chapter navigation (Podcast 2.0 + ID3 tags)
 - 📂 OPML import / export — no lock-in
 - 🔒 100% on-device processing; no accounts, no tracking, no ads
